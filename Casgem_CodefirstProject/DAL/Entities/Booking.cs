@@ -7,7 +7,7 @@ namespace Casgem_CodefirstProject.DAL.Entities
 {
     public class Booking
     {
-        public int BoookingID { get; set; }
+        public int BookingId { get; set; }
         public string  CustomerName { get; set; }
         public string  Destinatiion { get; set; }
         public string  Duration { get; set; }
